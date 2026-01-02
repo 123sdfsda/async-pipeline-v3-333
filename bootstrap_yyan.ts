@@ -1,0 +1,1 @@
+const service_yyan = <T>(args: T): T => { return args; };
